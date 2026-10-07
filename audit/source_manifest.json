@@ -1,0 +1,2010 @@
+[
+  {
+    "variant": "deepseek",
+    "original_path": "data_loader.py",
+    "sha256": "09a15821b4eb2c1608c51c98f52f9e5965a4c6396881f425ec159fef2ad96c6e",
+    "bytes": 6296,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "deepseek_client.py",
+    "sha256": "8d86e4f272e1e17cb0b7cc6b5050fb9d73fae0d3b5090448cb9b7a29f627c929",
+    "bytes": 5475,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "metrics.py",
+    "sha256": "46f5612a749e6d449f3e265e9b96bb5c82aaa1d799881c357f8066c0a7ddbf02",
+    "bytes": 3960,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "judge_full.py",
+    "sha256": "66569cd9beadbce061296c9c9848869b4797ad1f029443d99a40d9e0b22e2aa4",
+    "bytes": 6905,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "convert_data.py",
+    "sha256": "d2e5c1db923ae55fbf12d030905d283e18f62685271804e51c3c03fa55c5751a",
+    "bytes": 4713,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_report.py",
+    "sha256": "1f81796dda32b93e0126ec773548c01b27af727fad413c49737e20f48dedb5bf",
+    "bytes": 31021,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "README.md",
+    "sha256": "3824d8f8d348cb95706596771d4ea5b0b35f54098dd326e1ebf6f475485ade59",
+    "bytes": 915,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_generation_order_ablation.py",
+    "sha256": "ea48a9a21d450b49ab99a22bf81a39f2a6a1830d1fc6e3545b8533d71cd620b5",
+    "bytes": 16400,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_ablation_summary.py",
+    "sha256": "aa55eb8d7489634a78f90dfc1d0b2e01fea35593d1d396cb7ef1960ffa3f03a3",
+    "bytes": 4891,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "requirements.txt",
+    "sha256": "daaed0a8511209a152b9edb23283700e28fe519128fe7d7d91523733b0163ba4",
+    "bytes": 39,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_evaluation.py",
+    "sha256": "a4e325008ca90c765a4715eeb5015cf4549012c4fa14073912b5fd8acf3069b7",
+    "bytes": 10036,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "gemini_client.py",
+    "sha256": "f12e2eb6a574945a31ef3734bf7a4aab5837a1d94164d33523b0304cb2276444",
+    "bytes": 6407,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_evaluation_full23.py",
+    "sha256": "5157e4c6d202e0a7c597437509be5c8cd8f80ffd1fe91dda8e996134c9bee601",
+    "bytes": 11482,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "methods.py",
+    "sha256": "9d1cc9c57fdeb7760fa4a84d78d6ebe78800d2c2220ec9472d176618d1564c0c",
+    "bytes": 25509,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "judge.py",
+    "sha256": "dc518379fa6f890a56ca3e2c3a3d2e1e49a5e04a7d25192b8d85f02c9fbcd1be",
+    "bytes": 7861,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "config.py",
+    "sha256": "151ebc401aa7e5101bab2d6d7c330491467b4c53c88620514683873472e74cdf",
+    "bytes": 2088,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_generation_leave_one_out.py",
+    "sha256": "4b0bd400996d8c390b8f8b1fbab63df76be081a756464cb0dcd88c30e40fc865",
+    "bytes": 15614,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_report_full23.py",
+    "sha256": "9fb2b37f0af1a33bc8283d09d3a9832c13a8b7a0cd902a7cf88390f708baf246",
+    "bytes": 14830,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_generation_ablation_complete.py",
+    "sha256": "de6944900cc93ef6c1237daf1a37bf0e025911bc0539f4d125b7a441d83a36d5",
+    "bytes": 20181,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "run_generation.py",
+    "sha256": "92c3aa06f1cc2daf52320dd57df5dba9c67d585caca509d981d7ed280d1a17e2",
+    "bytes": 5675,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "data/samples.json",
+    "sha256": "019314642161d21788920d469f5aa8b528516840cee48ead9cb720344c3c5b2a",
+    "bytes": 24527222,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/GEO-bench.jsonl",
+    "sha256": "c6c3b28b56b930d9ee4762c4108239f5d5593a350d315232065e69180c7ca82d",
+    "bytes": 87538668,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/group_topic_questions.csv",
+    "sha256": "11990a5f30a8e86d0e0b93d0aa6abc9e009b044dd5518ff0c3ce3be645bde4fb",
+    "bytes": 2578,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/.env.txt",
+    "sha256": "0ba9156ced3f85b6ed8e400cb6a11e148172f0302eb73b0ebe2381d2a770d413",
+    "bytes": 53,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step5.py",
+    "sha256": "79d6df3920a9000682c684e1507b5a684a34f0299614b8e0d5609624ea95ad10",
+    "bytes": 974,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/GEO_bench_grouped_sources.txt",
+    "sha256": "974a5cdc486c8a2596da9ecc51d5b2e49da7f35056ff88ef4a34108c0e827262",
+    "bytes": 86711715,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step8_reddit_no_api.py",
+    "sha256": "2a243641f3c5afd098a044d16235465ddce5d1ade60bd1b4795ad710630375f8",
+    "bytes": 6535,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/short_question_chains.csv",
+    "sha256": "93cbbc10479d6ff5e68114ce3ebcc30b491cdc2090327b6d8d46fe608161961e",
+    "bytes": 248040,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step7_deepseek_keywords.py",
+    "sha256": "01afcf7c16164411689256323f4f0aec883ad8ad594ad09a8441a623680b1479",
+    "bytes": 4837,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/reddit_questions_no_api.csv",
+    "sha256": "d040a099bd0771c0afe6028ac2bad9be11c724571e8e699f7b0ad64f3630f152",
+    "bytes": 228587,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step9_generate_question_chain.py",
+    "sha256": "cd740e38c9367f6040262a017ea6874e0ffbf53b27cea55a8423c3379dd2b91c",
+    "bytes": 10565,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/short_question_chains.jsonl",
+    "sha256": "df73ab5f82a4a828f0077305933e1f56347d9840697ff68c7652ae677827690f",
+    "bytes": 856621,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step1_check.py",
+    "sha256": "d4634f6de21b1460a12178712f1ec1291bc35f0a29960563909506b3a362c6ff",
+    "bytes": 420,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step7_fast_topics_en.py",
+    "sha256": "49217c11a5f84904364caa16975e74055face77c136bb7b86f032cef43ca010c",
+    "bytes": 4112,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step2_check_source_count.py",
+    "sha256": "8773a7a509f816dbc9ba63dd7367cb1b8ee8ed840ea4198ab70adadd67ef5378",
+    "bytes": 1076,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/group_keywords_deepseek.csv",
+    "sha256": "32d52c5d12a069773528b29d73f1f554e4f5e2386120caf07b1bb08393e2587c",
+    "bytes": 3234,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/test_deepseek.py",
+    "sha256": "033fdc26200b827d7c70f179f6e6dc35cbd5d6cd71393c2ac1ad03751323fe05",
+    "bytes": 4842,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step7_topic_label_questions.py",
+    "sha256": "ab5a1cee10becc6039f40af22e61e793f1c674213bf66cce7cfc7a5b0f059621",
+    "bytes": 4110,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/top300.py",
+    "sha256": "76104df54225add85152d9a3a4c345c7299a010d92bf64b8f774e2ca44c63f0b",
+    "bytes": 4333,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/group_topic_fast_en.csv",
+    "sha256": "34d9a39e4188a7113a8246d88ad0c81f0138a06f9d15fd611a2d0baaa2941058",
+    "bytes": 546845,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "preprocessing/step4.py",
+    "sha256": "3a0c82a47e3aca19b6d5461362e14658ed9d067e76e32d26edc072ba22666a42",
+    "bytes": 778,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/scores/evaluation_results.csv",
+    "sha256": "8b063e9bda8bad56b7ece2b8f066dad9b763928edda3963433973e8b2e1c9f62",
+    "bytes": 707107,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/scores/evaluation_results_full23.csv",
+    "sha256": "16e4e237a0a9d1f7c2ecfac7dd33bd2eb462a7f7e4b31e8bab2f683be4c3a717",
+    "bytes": 279610,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/scores/evaluation_results_full23_200.csv",
+    "sha256": "69f331c0cecf7745a96b18c56a4f869602ada5d1a7160b5f8966f1007935b7ae",
+    "bytes": 1064386,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig7_baseline_ranking.png",
+    "sha256": "05cebf3e09d8703c7ee8517cf72c2d9b26249a91a3c1942f6784755b1fd691cb",
+    "bytes": 30881,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig6_correlation_heatmap.png",
+    "sha256": "09366d41dafc570554b58b85cd710c5ff2f05b475dfe2fe817c8800f47f896c4",
+    "bytes": 202658,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig5_boxplot.png",
+    "sha256": "8b8abd0895a49ff5355be64918293b5c56d7affd0baa74d6466536aad887452a",
+    "bytes": 261423,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig9_top3_per_metric.png",
+    "sha256": "590d29494bd5a78a74a6c0374cc01a0eec25a49bde992e24e92a3b37778b4ba1",
+    "bytes": 338890,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig2_heatmap.png",
+    "sha256": "20b77101d1e40d71122246c94897f22daea07cc03f3b8c1203b05c5060c75764",
+    "bytes": 388706,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig8_metric_lines.png",
+    "sha256": "9a5615928dea5b78709aa4a1f45c04ac3f8138d5afa72f59bcd3cd3f542d50d6",
+    "bytes": 134069,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig7_significance_test.png",
+    "sha256": "651866fa204722f936e61e66dad78a313e666d1a4638c9fcf4a7e89a4c867f5d",
+    "bytes": 171303,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig8_overall_ranking.png",
+    "sha256": "db7c039b07ade3980b5907948edc79d23cd4d6cfe76a2b56ca48d9520952f11b",
+    "bytes": 181626,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig1_grouped_bar_error.png",
+    "sha256": "33354ec7765db9f9cec7e6fe3255b3f45cad5b0742ded5b111df9ee0b6a82f59",
+    "bytes": 231714,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig6_wordcount_vs_score.png",
+    "sha256": "9197b007527d1bcf220360626199d1b333afa08d2bcfdd222369dd2cd57f832c",
+    "bytes": 62508,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig3_group_comparison.png",
+    "sha256": "46c56807d65199e1a4e2b7407f7544b79bd26cc3702fc919eb616459ab123fbd",
+    "bytes": 172936,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig4_radar.png",
+    "sha256": "53c19067f5a557794f1ea2cebc10b7d20bb48f931cf60bf299fee6a3d7eccb57",
+    "bytes": 356108,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig10_metric_lines.png",
+    "sha256": "bcb842d28a7b2ecaf0bfdd01b28bccec296550dfad2653ddb451d0d7cb05020a",
+    "bytes": 354238,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig5_top3_per_metric.png",
+    "sha256": "a4f8bd13dffa653831ae08890a63b2e6bf350b1e686c3ac2fa1d01f616b72377",
+    "bytes": 172278,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/figures/fig1_overall_bar.png",
+    "sha256": "c5e397a665d7e4907753ade6020c3449ec8e5bd25c069f0e267d35662b288ee9",
+    "bytes": 61077,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/generations/generation_results.jsonl",
+    "sha256": "d33e924e3c10fdf14703300d148448dcd887df3d1037c3b01884fa90142aa2a2",
+    "bytes": 806255,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/logs/evaluation_full23.log",
+    "sha256": "633b5a8745df8356be5ca07947e86a7a2d4254d3cd2554e28db460fd759a8abc",
+    "bytes": 71738,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/logs/generation.log",
+    "sha256": "9ec33be248a4a80bb9df57d50840013c2689e477ca229a466cf863e47b332248",
+    "bytes": 12492,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/logs/evaluation.log",
+    "sha256": "d428a18236973c49392ad781476ca0c7a08ca6d93fc59f7f90fa06a7919ecea3",
+    "bytes": 11252,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/logs/deepseek_client.log",
+    "sha256": "eaa21e477c9749f3acfaa6ee5986e2e2e7919223622fd58dea3e41079263afad",
+    "bytes": 3847912,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/logs/gemini_client.log",
+    "sha256": "d7c5d772f47ceefa7e2b775820dfe12e76388b803a2d6c2f671a94472cb3d21d",
+    "bytes": 598831,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/tables_full23/MRGEOA_(2).xlsx",
+    "sha256": "ab129e06cea8456e0ebfdae3d87a7ad9dc3fd4f64f2da39590cadc471f06186a",
+    "bytes": 445062,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/tables_full23/mrgeoa_advantage_metrics_full23.csv",
+    "sha256": "d6ff1a6f2a7ce53c7fecdeec6519877be28610d76bd0ee208a336a402218c219",
+    "bytes": 3265,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/tables_full23/method_mean_scores_full23.csv",
+    "sha256": "16aaec6f9058f148e83ed53d705d266f946546a04bcc541edcfa1718f809aea7",
+    "bytes": 4619,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/tables_full23/123.docx",
+    "sha256": "2e59eee2e6f3f1f214e46af4600d7a6fd6bfeaf7d21c1cbd38c99a0aee020a79",
+    "bytes": 2452687,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "deepseek",
+    "original_path": "outputs/tables_full23/metric_recommendation_table_full23.csv",
+    "sha256": "39c560c3b4e9d348e34e4d9c7b54f7b2756b04d136b28413f40a0d47122e2589",
+    "bytes": 270,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "data_loader.py",
+    "sha256": "d723fcb982c07f54d51e6a3163d15903a949c26c299875b88579f2c6595ab223",
+    "bytes": 5403,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "deepseek_client.py",
+    "sha256": "c23c41828d1e65f8c7843a02a9a46643ba2e466d596db19143ae33fa01230972",
+    "bytes": 7838,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "metrics.py",
+    "sha256": "164309f470e545ecd644756283957ccfef1083a6bd0b90a1b5e53d6bfe1af684",
+    "bytes": 3715,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "convert_data.py",
+    "sha256": "b8a0f9a6b292034b491f23766b0211271e57933f87963e148c88321d8e5933d3",
+    "bytes": 7171,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "run_report.py",
+    "sha256": "22d020df6417a35b4fad19935598ab77c5e37cdedc436a1738419856774fa07d",
+    "bytes": 11740,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "modified_111_cleaned_150_m2geo_outliers_removed.csv",
+    "sha256": "574a82a9222a3fe9784a38ffeaa350a10eb7a145276cc99d5fb540f02e70d157",
+    "bytes": 831285,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "README.md",
+    "sha256": "630d9c64e48436ec866c72f442fbde7c2bf3938a81d793915931612c9cb7f8ed",
+    "bytes": 82,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "requirements.txt",
+    "sha256": "daaed0a8511209a152b9edb23283700e28fe519128fe7d7d91523733b0163ba4",
+    "bytes": 39,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "run_evaluation.py",
+    "sha256": "0e5060b0ad2ed78df851f5fe25439ab569b6086768fd76aa64e5a9048d68ac50",
+    "bytes": 7677,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "gemini_client.py",
+    "sha256": "d887d9b3be60d6b39963563f5a70d6e9b9b0f956989b32c19225d003b779ff10",
+    "bytes": 8026,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "111.csv",
+    "sha256": "69f331c0cecf7745a96b18c56a4f869602ada5d1a7160b5f8966f1007935b7ae",
+    "bytes": 1064386,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "methods.py",
+    "sha256": "e7881860a80e34baa89d06f52d8c1fb462406dbc173c184b2a09a55380310176",
+    "bytes": 7229,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "judge.py",
+    "sha256": "335d72cd9f88dea0b02b4f222ddb3dc2ff051423e4708a6ceb20eda2d67386aa",
+    "bytes": 7946,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "config.py",
+    "sha256": "f5dc3e7a2f268245fa784ffc10235afa4e399b4d3ac43de957a487758c77ee97",
+    "bytes": 2745,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "modified_111_ranking_150_m2geo_outliers_removed.csv",
+    "sha256": "58091b9c7edcbf721d1906ccf1cb507dbe92bbd5aba66eb98e4aa75d27b77997",
+    "bytes": 1384,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "process_csv.py",
+    "sha256": "952ee09e08068be0a380192f62cdc1ad0490cf434d6fa302ed58415a4a4347a7",
+    "bytes": 2373,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "run_generation.py",
+    "sha256": "7eaa3bbd8a567f9f1d4cd2f7afbfe9eb7d702ca19f8e9fb8d8cf5ec3cea89849",
+    "bytes": 6273,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "data/samples.json",
+    "sha256": "8cafbe535c4300c264eb131ac64c6d537cab6cdc02ffcc7ff3cf9a32713c1af7",
+    "bytes": 24589184,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/GEO-bench.jsonl",
+    "sha256": "c6c3b28b56b930d9ee4762c4108239f5d5593a350d315232065e69180c7ca82d",
+    "bytes": 87538668,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/group_topic_questions.csv",
+    "sha256": "11990a5f30a8e86d0e0b93d0aa6abc9e009b044dd5518ff0c3ce3be645bde4fb",
+    "bytes": 2578,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/.env.txt",
+    "sha256": "0ba9156ced3f85b6ed8e400cb6a11e148172f0302eb73b0ebe2381d2a770d413",
+    "bytes": 53,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step5.py",
+    "sha256": "79d6df3920a9000682c684e1507b5a684a34f0299614b8e0d5609624ea95ad10",
+    "bytes": 974,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/GEO_bench_grouped_sources.txt",
+    "sha256": "974a5cdc486c8a2596da9ecc51d5b2e49da7f35056ff88ef4a34108c0e827262",
+    "bytes": 86711715,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step8_reddit_no_api.py",
+    "sha256": "2a243641f3c5afd098a044d16235465ddce5d1ade60bd1b4795ad710630375f8",
+    "bytes": 6535,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/short_question_chains.csv",
+    "sha256": "93cbbc10479d6ff5e68114ce3ebcc30b491cdc2090327b6d8d46fe608161961e",
+    "bytes": 248040,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step7_deepseek_keywords.py",
+    "sha256": "01afcf7c16164411689256323f4f0aec883ad8ad594ad09a8441a623680b1479",
+    "bytes": 4837,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/reddit_questions_no_api.csv",
+    "sha256": "d040a099bd0771c0afe6028ac2bad9be11c724571e8e699f7b0ad64f3630f152",
+    "bytes": 228587,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step9_generate_question_chain.py",
+    "sha256": "cd740e38c9367f6040262a017ea6874e0ffbf53b27cea55a8423c3379dd2b91c",
+    "bytes": 10565,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/short_question_chains.jsonl",
+    "sha256": "df73ab5f82a4a828f0077305933e1f56347d9840697ff68c7652ae677827690f",
+    "bytes": 856621,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step1_check.py",
+    "sha256": "d4634f6de21b1460a12178712f1ec1291bc35f0a29960563909506b3a362c6ff",
+    "bytes": 420,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step7_fast_topics_en.py",
+    "sha256": "49217c11a5f84904364caa16975e74055face77c136bb7b86f032cef43ca010c",
+    "bytes": 4112,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step2_check_source_count.py",
+    "sha256": "8773a7a509f816dbc9ba63dd7367cb1b8ee8ed840ea4198ab70adadd67ef5378",
+    "bytes": 1076,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/group_keywords_deepseek.csv",
+    "sha256": "32d52c5d12a069773528b29d73f1f554e4f5e2386120caf07b1bb08393e2587c",
+    "bytes": 3234,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/test_deepseek.py",
+    "sha256": "033fdc26200b827d7c70f179f6e6dc35cbd5d6cd71393c2ac1ad03751323fe05",
+    "bytes": 4842,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step7_topic_label_questions.py",
+    "sha256": "ab5a1cee10becc6039f40af22e61e793f1c674213bf66cce7cfc7a5b0f059621",
+    "bytes": 4110,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/top300.py",
+    "sha256": "76104df54225add85152d9a3a4c345c7299a010d92bf64b8f774e2ca44c63f0b",
+    "bytes": 4333,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/group_topic_fast_en.csv",
+    "sha256": "34d9a39e4188a7113a8246d88ad0c81f0138a06f9d15fd611a2d0baaa2941058",
+    "bytes": 546845,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "preprocessing/step4.py",
+    "sha256": "3a0c82a47e3aca19b6d5461362e14658ed9d067e76e32d26edc072ba22666a42",
+    "bytes": 778,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/scores/evaluation_results.csv",
+    "sha256": "cf374daab2495b91834ad37f19f4d05dbfada4b502051e04d1683f337d6fa045",
+    "bytes": 2899,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/scores/modified_111.csv",
+    "sha256": "236387cce6cbc9951e34dd46cd32f3882862731fb205de01237dfee08c6ce642",
+    "bytes": 1064384,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/scores/modified_111_2_extra_cleaned_MRGEO_low_multiagent_high_complete_table.xlsx",
+    "sha256": "4ea57ef33d8a8414288e777c90ac42df90606b393e53094426a329a72aeb8681",
+    "bytes": 529519,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/scores/MRGEO_═Ω╒√╫▄▒φ_╟σ╧┤║≤_░┤─ú░σ╒√└φ_╓≈╩╡╤Θ╫ε╓╒░µ.xlsx",
+    "sha256": "2f91db65c346650f7dfed7d2b72faaec32489811b836073eeef86af793b61c9b",
+    "bytes": 27019,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/tables/method_ranking.csv",
+    "sha256": "ae0ded2b341af8e9dd45690017540f8a181c691551dd234bbe30d5afdc324303",
+    "bytes": 97,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/tables/method_summary_mean.csv",
+    "sha256": "fc4ec87106d23d6a341424b809cbe68afcaf7da1923573cba6a81dabdfcac448",
+    "bytes": 332,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig7_baseline_ranking.png",
+    "sha256": "05cebf3e09d8703c7ee8517cf72c2d9b26249a91a3c1942f6784755b1fd691cb",
+    "bytes": 30881,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig2_heatmap.png",
+    "sha256": "6d5e644225b989142367aea597f86f9492715644c059c800d109f49aa60ef801",
+    "bytes": 75892,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig8_metric_lines.png",
+    "sha256": "9a5615928dea5b78709aa4a1f45c04ac3f8138d5afa72f59bcd3cd3f542d50d6",
+    "bytes": 134069,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig6_wordcount_vs_score.png",
+    "sha256": "9197b007527d1bcf220360626199d1b333afa08d2bcfdd222369dd2cd57f832c",
+    "bytes": 62508,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig3_group_comparison.png",
+    "sha256": "a3c5f01e731a63e25d35d8beb0464df96f24d202f8aa0096aa2b5b7286661333",
+    "bytes": 87038,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig4_radar.png",
+    "sha256": "887945811ef70d96921332abcc4439c87ad9a0b6b6fa785f9572cb148248f928",
+    "bytes": 242430,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig5_top3_per_metric.png",
+    "sha256": "a4f8bd13dffa653831ae08890a63b2e6bf350b1e686c3ac2fa1d01f616b72377",
+    "bytes": 172278,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/figures/fig1_overall_bar.png",
+    "sha256": "c5e397a665d7e4907753ade6020c3449ec8e5bd25c069f0e267d35662b288ee9",
+    "bytes": 61077,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/generations/generation_results.jsonl",
+    "sha256": "aaa4bf0ab01822edf4ef22b0b43d207eedbe1072408c215d72feecc2cfe61119",
+    "bytes": 95366968,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/logs/generation.log",
+    "sha256": "300f87d09e4881272f7f305c33191570ec8f3e0471506c5fb313552900eeb90f",
+    "bytes": 18895,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/logs/evaluation.log",
+    "sha256": "d53e6af515f32b55fdd0419ec1987062dc80e2ba495e9f0868aa1ea2df3c5c58",
+    "bytes": 339,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "claude",
+    "original_path": "outputs/logs/gemini_client.log",
+    "sha256": "75c83ffc6ddc4a9da24f11471117c12ae41f56c20d1f08b35b2f0a73e836eec0",
+    "bytes": 2331753,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "data_loader.py",
+    "sha256": "09a15821b4eb2c1608c51c98f52f9e5965a4c6396881f425ec159fef2ad96c6e",
+    "bytes": 6296,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "deepseek_client.py",
+    "sha256": "beef2abd4531da9d196eaf27987e343f911974b7ba5b29d15967fab6ca578343",
+    "bytes": 12022,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "run_fix_empty.py",
+    "sha256": "50b41d17d3b48ea5927d19841ddec80995a5a6ae7fd16a1f75e9bd2865cc903e",
+    "bytes": 4271,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "metrics.py",
+    "sha256": "46f5612a749e6d449f3e265e9b96bb5c82aaa1d799881c357f8066c0a7ddbf02",
+    "bytes": 3960,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "judge_full.py",
+    "sha256": "b1a26bdb366c0dfdbef610e5a615c6313eb664eda00d91d0fa8b272f04be5016",
+    "bytes": 7950,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "convert_data.py",
+    "sha256": "d2e5c1db923ae55fbf12d030905d283e18f62685271804e51c3c03fa55c5751a",
+    "bytes": 4713,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "run_report.py",
+    "sha256": "0ee95d4e65ae41de67e45705bced8d984276d77b2fc7272f208cb893773a149b",
+    "bytes": 34430,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "README.md",
+    "sha256": "f2c9c661ac4e3acdfd20d49af2e71e4d2b35a751e9a7cd7b5755e22afc33fef3",
+    "bytes": 829,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "requirements.txt",
+    "sha256": "daaed0a8511209a152b9edb23283700e28fe519128fe7d7d91523733b0163ba4",
+    "bytes": 39,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "gemini_client.py",
+    "sha256": "beef2abd4531da9d196eaf27987e343f911974b7ba5b29d15967fab6ca578343",
+    "bytes": 12022,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "run_evaluation_full23.py",
+    "sha256": "bd6a69a7cc48866bbece8910bfde4dc2f6b330dcb0ac00a66c1ade1e55194b1e",
+    "bytes": 13490,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "methods.py",
+    "sha256": "9d1cc9c57fdeb7760fa4a84d78d6ebe78800d2c2220ec9472d176618d1564c0c",
+    "bytes": 25509,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "config.py",
+    "sha256": "8d1fd494b37bae6da44669a3f6428eda275f46b2ffdd3af041ce075611dc027d",
+    "bytes": 5735,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "run_report_full23.py",
+    "sha256": "ec6606415dffe8ba06b7a3e100abf8b13af8bda341ae7139d22fe83c209c8332",
+    "bytes": 15037,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "run_generation.py",
+    "sha256": "92c3aa06f1cc2daf52320dd57df5dba9c67d585caca509d981d7ed280d1a17e2",
+    "bytes": 5675,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "data/samples.json",
+    "sha256": "019314642161d21788920d469f5aa8b528516840cee48ead9cb720344c3c5b2a",
+    "bytes": 24527222,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/GEO-bench.jsonl",
+    "sha256": "c6c3b28b56b930d9ee4762c4108239f5d5593a350d315232065e69180c7ca82d",
+    "bytes": 87538668,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/group_topic_questions.csv",
+    "sha256": "11990a5f30a8e86d0e0b93d0aa6abc9e009b044dd5518ff0c3ce3be645bde4fb",
+    "bytes": 2578,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/.env.txt",
+    "sha256": "0ba9156ced3f85b6ed8e400cb6a11e148172f0302eb73b0ebe2381d2a770d413",
+    "bytes": 53,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step5.py",
+    "sha256": "79d6df3920a9000682c684e1507b5a684a34f0299614b8e0d5609624ea95ad10",
+    "bytes": 974,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/GEO_bench_grouped_sources.txt",
+    "sha256": "974a5cdc486c8a2596da9ecc51d5b2e49da7f35056ff88ef4a34108c0e827262",
+    "bytes": 86711715,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step8_reddit_no_api.py",
+    "sha256": "2a243641f3c5afd098a044d16235465ddce5d1ade60bd1b4795ad710630375f8",
+    "bytes": 6535,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/short_question_chains.csv",
+    "sha256": "93cbbc10479d6ff5e68114ce3ebcc30b491cdc2090327b6d8d46fe608161961e",
+    "bytes": 248040,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step7_deepseek_keywords.py",
+    "sha256": "01afcf7c16164411689256323f4f0aec883ad8ad594ad09a8441a623680b1479",
+    "bytes": 4837,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/reddit_questions_no_api.csv",
+    "sha256": "d040a099bd0771c0afe6028ac2bad9be11c724571e8e699f7b0ad64f3630f152",
+    "bytes": 228587,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step9_generate_question_chain.py",
+    "sha256": "cd740e38c9367f6040262a017ea6874e0ffbf53b27cea55a8423c3379dd2b91c",
+    "bytes": 10565,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/short_question_chains.jsonl",
+    "sha256": "df73ab5f82a4a828f0077305933e1f56347d9840697ff68c7652ae677827690f",
+    "bytes": 856621,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step1_check.py",
+    "sha256": "d4634f6de21b1460a12178712f1ec1291bc35f0a29960563909506b3a362c6ff",
+    "bytes": 420,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step7_fast_topics_en.py",
+    "sha256": "49217c11a5f84904364caa16975e74055face77c136bb7b86f032cef43ca010c",
+    "bytes": 4112,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step2_check_source_count.py",
+    "sha256": "8773a7a509f816dbc9ba63dd7367cb1b8ee8ed840ea4198ab70adadd67ef5378",
+    "bytes": 1076,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/group_keywords_deepseek.csv",
+    "sha256": "32d52c5d12a069773528b29d73f1f554e4f5e2386120caf07b1bb08393e2587c",
+    "bytes": 3234,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/test_deepseek.py",
+    "sha256": "033fdc26200b827d7c70f179f6e6dc35cbd5d6cd71393c2ac1ad03751323fe05",
+    "bytes": 4842,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step7_topic_label_questions.py",
+    "sha256": "ab5a1cee10becc6039f40af22e61e793f1c674213bf66cce7cfc7a5b0f059621",
+    "bytes": 4110,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/top300.py",
+    "sha256": "76104df54225add85152d9a3a4c345c7299a010d92bf64b8f774e2ca44c63f0b",
+    "bytes": 4333,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/group_topic_fast_en.csv",
+    "sha256": "34d9a39e4188a7113a8246d88ad0c81f0138a06f9d15fd611a2d0baaa2941058",
+    "bytes": 546845,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "preprocessing/step4.py",
+    "sha256": "3a0c82a47e3aca19b6d5461362e14658ed9d067e76e32d26edc072ba22666a42",
+    "bytes": 778,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/scores/ablation_full23_scores.csv",
+    "sha256": "1873848c1224e0af43b1cc614f6677c689234c37061d326bae6b9fd6476e0b61",
+    "bytes": 234750,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/scores/evaluation_results.csv",
+    "sha256": "cf374daab2495b91834ad37f19f4d05dbfada4b502051e04d1683f337d6fa045",
+    "bytes": 2899,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/scores/evaluation_results_full23_gemini_SAFE.csv",
+    "sha256": "1ca2bfde76aa8bce2f55c6aa1e6a32969f92ec8077f7e1065b24faaa6babb972",
+    "bytes": 18662,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/scores/evaluation_results_full23.csv",
+    "sha256": "862fb2e00b25374172d6dfeda25eff11bd297942593642d9a1502fc42454bb46",
+    "bytes": 976662,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/scores/evaluation_results_full23_gemini_TEST2.csv",
+    "sha256": "d2041597b1ba7f32118bfe88fe3b4e062eb7117341e807660d33e37a5c010692",
+    "bytes": 2148,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/scores/evaluation_results_full23_gemini_TEST.csv",
+    "sha256": "0be6a1acf0b6edae9c8e6ba6e00bc07e7e8b37af12ee7b400d3a59e784d22a09",
+    "bytes": 9478,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/scores/evaluation_results_full23_gemini.csv",
+    "sha256": "dc12b6666b1f9e44704126c6c2f74cc6245168641cc7c56a45c29480977eca7c",
+    "bytes": 562091,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/tables/MEGEO_╧√╚┌╩╡╤Θ_╟σ╧┤║≤_░┤─ú░σ╒√└φ.xlsx",
+    "sha256": "f078a5a27e0a7594c0271f9e393f4d90296f28ee90bf0c1f0597ae609a33536d",
+    "bytes": 26780,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/tables/method_ranking.csv",
+    "sha256": "ae0ded2b341af8e9dd45690017540f8a181c691551dd234bbe30d5afdc324303",
+    "bytes": 97,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/tables/MRGEO_═Ω╒√╫▄▒φ_╟σ╧┤║≤_░┤─ú░σ╒√└φ_╫ε╨┬░µ (1).xlsx",
+    "sha256": "a46448cc53f10575cd9f74bbced83ae8a37cdc854c03439528cb05e119c6d7af",
+    "bytes": 32160,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/tables/method_summary_mean.csv",
+    "sha256": "fc4ec87106d23d6a341424b809cbe68afcaf7da1923573cba6a81dabdfcac448",
+    "bytes": 332,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig7_baseline_ranking.png",
+    "sha256": "05cebf3e09d8703c7ee8517cf72c2d9b26249a91a3c1942f6784755b1fd691cb",
+    "bytes": 30881,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig2_heatmap.png",
+    "sha256": "6d5e644225b989142367aea597f86f9492715644c059c800d109f49aa60ef801",
+    "bytes": 75892,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig8_metric_lines.png",
+    "sha256": "9a5615928dea5b78709aa4a1f45c04ac3f8138d5afa72f59bcd3cd3f542d50d6",
+    "bytes": 134069,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig6_wordcount_vs_score.png",
+    "sha256": "9197b007527d1bcf220360626199d1b333afa08d2bcfdd222369dd2cd57f832c",
+    "bytes": 62508,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig3_group_comparison.png",
+    "sha256": "a3c5f01e731a63e25d35d8beb0464df96f24d202f8aa0096aa2b5b7286661333",
+    "bytes": 87038,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig4_radar.png",
+    "sha256": "887945811ef70d96921332abcc4439c87ad9a0b6b6fa785f9572cb148248f928",
+    "bytes": 242430,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig5_top3_per_metric.png",
+    "sha256": "a4f8bd13dffa653831ae08890a63b2e6bf350b1e686c3ac2fa1d01f616b72377",
+    "bytes": 172278,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/figures/fig1_overall_bar.png",
+    "sha256": "c5e397a665d7e4907753ade6020c3449ec8e5bd25c069f0e267d35662b288ee9",
+    "bytes": 61077,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/generations/generation_results.jsonl.bak",
+    "sha256": "8f8fd76eacb6946d68fc4a94ad20459491c5a947bd979083f049254c8ddf57f1",
+    "bytes": 725655,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/generations/ablation_generation_results.jsonl",
+    "sha256": "8e112f71929468a8bd29bafd0a9fe8345b308c2a9878c26e1af3a18e9b678cfd",
+    "bytes": 15338414,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/generations/generation_results.jsonl",
+    "sha256": "d33e924e3c10fdf14703300d148448dcd887df3d1037c3b01884fa90142aa2a2",
+    "bytes": 806255,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/logs/generation.log",
+    "sha256": "90940d1bf4199ef4725fe715cea070f0028242be86a306d6c5fc84659341bf90",
+    "bytes": 17241,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/logs/evaluation_full23_gemini.log",
+    "sha256": "7d05d7e21abb9db2b54e3aa57ca14f5bee970efd6fecd65ef0c71cb08de26fb2",
+    "bytes": 23838,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/logs/evaluation.log",
+    "sha256": "d53e6af515f32b55fdd0419ec1987062dc80e2ba495e9f0868aa1ea2df3c5c58",
+    "bytes": 339,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/logs/generation_ablation.log",
+    "sha256": "2ca7d3d0b7921c81a516705135f02fb7faacbd2405f308cf75f83d4e463ca423",
+    "bytes": 10737,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/logs/gemini_client.log",
+    "sha256": "30d208ceb6cb2e5d9ae42b003f941e8ae7d49bb179404cf158ba4e9e1b4d7f7e",
+    "bytes": 2143565,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gemini",
+    "original_path": "outputs/logs/evaluation_full23_gemini_SAFE.log",
+    "sha256": "c59c4d267cee53d3f5a3283d80112795cbe41452889ea3733ccca8c8847d06fd",
+    "bytes": 14249,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "data_loader.py",
+    "sha256": "7928db643fd4a3849a1d13b9dd835d74b8a5a3f4857430b6631901805a00e971",
+    "bytes": 4500,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "deepseek_client.py",
+    "sha256": "8db2b8c4ed460a45c3856fd893f8af1f9ce548adfd347a4daeea0d15c7079d33",
+    "bytes": 7866,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "metrics.py",
+    "sha256": "46f5612a749e6d449f3e265e9b96bb5c82aaa1d799881c357f8066c0a7ddbf02",
+    "bytes": 3960,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "judge_full.py",
+    "sha256": "5a1842a0da93c2a6f000dc2ed8e558c1d7c312d84f6199d443a29c6ee78ebd3a",
+    "bytes": 6483,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "convert_data.py",
+    "sha256": "d2e5c1db923ae55fbf12d030905d283e18f62685271804e51c3c03fa55c5751a",
+    "bytes": 4713,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "README.md",
+    "sha256": "8bf330b44f1b7e59abb4efd35e1d21f8cbe158f20199bd12b02de0fa9c68a6b3",
+    "bytes": 123,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "requirements.txt",
+    "sha256": "daaed0a8511209a152b9edb23283700e28fe519128fe7d7d91523733b0163ba4",
+    "bytes": 39,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "gemini_client.py",
+    "sha256": "8db2b8c4ed460a45c3856fd893f8af1f9ce548adfd347a4daeea0d15c7079d33",
+    "bytes": 7866,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "filter_empty_generation.py",
+    "sha256": "c25d601935cefd09d1e85a7b011194c99ce3fdd808137e87af65c8111fa759d0",
+    "bytes": 4509,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "run_evaluation_full23.py",
+    "sha256": "9b4b6574cefd01c0df5d39f05bc3b1a78f6cbefa7d0f019deb6303c49576ea6c",
+    "bytes": 21420,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "methods.py",
+    "sha256": "9d1cc9c57fdeb7760fa4a84d78d6ebe78800d2c2220ec9472d176618d1564c0c",
+    "bytes": 25509,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "config.py",
+    "sha256": "c3d765b60c4c3b79f68e4d125ce36f4a96c0ca5991ca8fd9a6eaa021940efbec",
+    "bytes": 3414,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "run_report_full23.py",
+    "sha256": "b847e42bd765bcac5cb7b9195f8da9edb3b76d9a9b1e12566c7309420a203b5c",
+    "bytes": 15536,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "chatanywhere_client.py",
+    "sha256": "a8497151631445e3d59fc1915f228b9ec51630c7e894efe09d71e788cbccb8e7",
+    "bytes": 5674,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "run_generation.py",
+    "sha256": "69395f6f4bfea2e7ae9379190055c6206864feb00516339cce873149486bed81",
+    "bytes": 9323,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "check_generation_file.py",
+    "sha256": "9fddeb6d6c912ddbb941b290bfbf2ca8a22cb449de63fe06eb21ea0d89e888f3",
+    "bytes": 3477,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "data/samples.json",
+    "sha256": "019314642161d21788920d469f5aa8b528516840cee48ead9cb720344c3c5b2a",
+    "bytes": 24527222,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/GEO-bench.jsonl",
+    "sha256": "c6c3b28b56b930d9ee4762c4108239f5d5593a350d315232065e69180c7ca82d",
+    "bytes": 87538668,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/group_topic_questions.csv",
+    "sha256": "11990a5f30a8e86d0e0b93d0aa6abc9e009b044dd5518ff0c3ce3be645bde4fb",
+    "bytes": 2578,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/.env.txt",
+    "sha256": "0ba9156ced3f85b6ed8e400cb6a11e148172f0302eb73b0ebe2381d2a770d413",
+    "bytes": 53,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step5.py",
+    "sha256": "79d6df3920a9000682c684e1507b5a684a34f0299614b8e0d5609624ea95ad10",
+    "bytes": 974,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/GEO_bench_url_cleaned.txt",
+    "sha256": "787cb067400bed406146c3580c8f87599b08e59b07d5fef99c8499b4972367b4",
+    "bytes": 24638678,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/GEO_bench_grouped_sources.txt",
+    "sha256": "974a5cdc486c8a2596da9ecc51d5b2e49da7f35056ff88ef4a34108c0e827262",
+    "bytes": 86711715,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step8_reddit_no_api.py",
+    "sha256": "2a243641f3c5afd098a044d16235465ddce5d1ade60bd1b4795ad710630375f8",
+    "bytes": 6535,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/short_question_chains.csv",
+    "sha256": "93cbbc10479d6ff5e68114ce3ebcc30b491cdc2090327b6d8d46fe608161961e",
+    "bytes": 248040,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step7_deepseek_keywords.py",
+    "sha256": "01afcf7c16164411689256323f4f0aec883ad8ad594ad09a8441a623680b1479",
+    "bytes": 4837,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/reddit_questions_no_api.csv",
+    "sha256": "d040a099bd0771c0afe6028ac2bad9be11c724571e8e699f7b0ad64f3630f152",
+    "bytes": 228587,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step9_generate_question_chain.py",
+    "sha256": "cd740e38c9367f6040262a017ea6874e0ffbf53b27cea55a8423c3379dd2b91c",
+    "bytes": 10565,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/short_question_chains.jsonl",
+    "sha256": "df73ab5f82a4a828f0077305933e1f56347d9840697ff68c7652ae677827690f",
+    "bytes": 856621,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step1_check.py",
+    "sha256": "d4634f6de21b1460a12178712f1ec1291bc35f0a29960563909506b3a362c6ff",
+    "bytes": 420,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step7_fast_topics_en.py",
+    "sha256": "49217c11a5f84904364caa16975e74055face77c136bb7b86f032cef43ca010c",
+    "bytes": 4112,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step2_check_source_count.py",
+    "sha256": "8773a7a509f816dbc9ba63dd7367cb1b8ee8ed840ea4198ab70adadd67ef5378",
+    "bytes": 1076,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/group_keywords_deepseek.csv",
+    "sha256": "32d52c5d12a069773528b29d73f1f554e4f5e2386120caf07b1bb08393e2587c",
+    "bytes": 3234,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/test_deepseek.py",
+    "sha256": "033fdc26200b827d7c70f179f6e6dc35cbd5d6cd71393c2ac1ad03751323fe05",
+    "bytes": 4842,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step7_topic_label_questions.py",
+    "sha256": "ab5a1cee10becc6039f40af22e61e793f1c674213bf66cce7cfc7a5b0f059621",
+    "bytes": 4110,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/top300.py",
+    "sha256": "76104df54225add85152d9a3a4c345c7299a010d92bf64b8f774e2ca44c63f0b",
+    "bytes": 4333,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/group_topic_fast_en.csv",
+    "sha256": "34d9a39e4188a7113a8246d88ad0c81f0138a06f9d15fd611a2d0baaa2941058",
+    "bytes": 546845,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "preprocessing/step4.py",
+    "sha256": "3a0c82a47e3aca19b6d5461362e14658ed9d067e76e32d26edc072ba22666a42",
+    "bytes": 778,
+    "action": "included",
+    "reason": "Python source; prompts and scientific logic preserved"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/scores/evaluation_results.csv",
+    "sha256": "ee064065395323596417c381251f887802924dd9dfc83f0c10917835613ded87",
+    "bytes": 64555,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/scores/evaluation_results_full23_chatanywhere_REAL.csv",
+    "sha256": "b5d4948d7810709ecf450d2f2d9b06b716c712a01ea6695256b84bd6c34dc3b5",
+    "bytes": 2814,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/scores/evaluation_results_full23_chatanywhere_FINAL_slow.csv",
+    "sha256": "9487bb09b3eac8bfb5e1267fd25d53ffa7e91d40f3b7409518230abc51ddf8a8",
+    "bytes": 966418,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/scores/MRGEO_═Ω╒√╫▄▒φ_╟σ╧┤║≤_░┤─ú░σ╒√└φ.xlsx",
+    "sha256": "eb0f9cc79050d3e4903565ccd099b15b1b840bfe11deaf7707635ce938f417b0",
+    "bytes": 34174,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/scores/evaluation_results_full23_chatanywhere_FINAL.csv",
+    "sha256": "3c203a56c89c680ac156ce21833206c89e8a1aca6b88bf7ae40ae0a39110b769",
+    "bytes": 4272,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/scores/evaluation_results_full23_chatanywhere_fixed.csv",
+    "sha256": "c05054c4e51d2dd75ecec651853184ad017f832678a92bbfc2dd9acd31547df5",
+    "bytes": 103392,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/tables/method_ranking.csv",
+    "sha256": "ae0ded2b341af8e9dd45690017540f8a181c691551dd234bbe30d5afdc324303",
+    "bytes": 97,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/tables/method_summary_mean.csv",
+    "sha256": "fc4ec87106d23d6a341424b809cbe68afcaf7da1923573cba6a81dabdfcac448",
+    "bytes": 332,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/generations/generation_results_nonempty.jsonl",
+    "sha256": "788877a80f5d5f3f714283ac30d2b99c537ff704f870e834f785a7b9e42ced44",
+    "bytes": 6027518,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/generations/empty_generation_records.csv",
+    "sha256": "0f14d5777400b57b7721f0e4940d94483513ef6a899a47821dd851dadb0029c3",
+    "bytes": 8771,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/generations/generation_results.jsonl",
+    "sha256": "6bf7c75f201032c24046f421aebf827e2806e6f30f6d061ba4f7cdde91f5f7ca",
+    "bytes": 6040037,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/logs/chatanywhere_client.log",
+    "sha256": "a2688e6b9b8761ef4234554954fd30b69e7ff14adbca4a1e0acd4509878f123f",
+    "bytes": 410611,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/logs/generation.log",
+    "sha256": "67be3c7910f6116d6ad9ce2708f889e4e6ead8cc8d0155ff17d6303c6ed75c00",
+    "bytes": 297753,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/logs/evaluation.log",
+    "sha256": "e101e4882e13adbb2df4baa53b124bf98462712201bf88d34694bc44c1b79562",
+    "bytes": 2460,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/logs/gemini_client.log",
+    "sha256": "f48da11cffb2dbc380c2c6e54d74ac2198b14dbcce7779be8fb7c58e9a8636fc",
+    "bytes": 2778024,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  },
+  {
+    "variant": "gpt4o_mini",
+    "original_path": "outputs/logs/evaluation_full23_chatanywhere.log",
+    "sha256": "8071dd5c97de505f72de394d4d96f80db22688924e9015a7e5b37e58371529d0",
+    "bytes": 38753,
+    "action": "excluded",
+    "reason": "Local data, generated output, or non-source artifact; retained in original upload"
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "variant": "deepseek",
+    "file": "evaluation_results.csv",
+    "rows": 2800,
+    "unique_sample_ids": 200,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": "not recorded",
+    "judge_errors": 2190,
+    "methods": {
+      "statistics": 200,
+      "m2geo": 200,
+      "uniqueness": 200,
+      "simplification": 200,
+      "authority": 200,
+      "fluency": 200,
+      "terminology": 200,
+      "reputation": 200,
+      "citation": 200,
+      "autogeo": 200,
+      "intent_geo": 200,
+      "multimodal": 200,
+      "multi_agent": 200,
+      "rag_based": 200
+    }
+  },
+  {
+    "variant": "deepseek",
+    "file": "evaluation_results_full23.csv",
+    "rows": 700,
+    "unique_sample_ids": 50,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 700,
+    "judge_errors": 0,
+    "methods": {
+      "statistics": 50,
+      "m2geo": 50,
+      "uniqueness": 50,
+      "simplification": 50,
+      "authority": 50,
+      "fluency": 50,
+      "terminology": 50,
+      "reputation": 50,
+      "citation": 50,
+      "autogeo": 50,
+      "intent_geo": 50,
+      "multimodal": 50,
+      "multi_agent": 50,
+      "rag_based": 50
+    }
+  },
+  {
+    "variant": "deepseek",
+    "file": "evaluation_results_full23_200.csv",
+    "rows": 2800,
+    "unique_sample_ids": 200,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 2800,
+    "judge_errors": 302,
+    "methods": {
+      "statistics": 200,
+      "m2geo": 200,
+      "uniqueness": 200,
+      "simplification": 200,
+      "authority": 200,
+      "fluency": 200,
+      "terminology": 200,
+      "reputation": 200,
+      "citation": 200,
+      "autogeo": 200,
+      "intent_geo": 200,
+      "multimodal": 200,
+      "multi_agent": 200,
+      "rag_based": 200
+    }
+  },
+  {
+    "variant": "claude",
+    "file": "evaluation_results.csv",
+    "rows": 10,
+    "unique_sample_ids": 5,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": "not recorded",
+    "judge_errors": 0,
+    "methods": {
+      "statistics": 5,
+      "m2geo": 5
+    }
+  },
+  {
+    "variant": "claude",
+    "file": "modified_111.csv",
+    "rows": 2800,
+    "unique_sample_ids": 200,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 2800,
+    "judge_errors": 302,
+    "methods": {
+      "statistics": 200,
+      "m2geo": 200,
+      "uniqueness": 200,
+      "simplification": 200,
+      "authority": 200,
+      "fluency": 200,
+      "terminology": 200,
+      "reputation": 200,
+      "citation": 200,
+      "autogeo": 200,
+      "intent_geo": 200,
+      "multimodal": 200,
+      "multi_agent": 200,
+      "rag_based": 200
+    }
+  },
+  {
+    "variant": "gemini",
+    "file": "ablation_full23_scores.csv",
+    "rows": 600,
+    "unique_sample_ids": 100,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 600,
+    "judge_errors": 0,
+    "methods": {
+      "MRGEOA-Raw": 100,
+      "MRGEOA-S1": 100,
+      "MRGEOA-S1S2": 100,
+      "MRGEOA-S1S2S3": 100,
+      "MRGEOA-S1S2S3S4": 100,
+      "MRGEOA-Full": 100
+    }
+  },
+  {
+    "variant": "gemini",
+    "file": "evaluation_results.csv",
+    "rows": 10,
+    "unique_sample_ids": 5,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": "not recorded",
+    "judge_errors": 0,
+    "methods": {
+      "statistics": 5,
+      "m2geo": 5
+    }
+  },
+  {
+    "variant": "gemini",
+    "file": "evaluation_results_full23_gemini_SAFE.csv",
+    "rows": 60,
+    "unique_sample_ids": 4,
+    "duplicate_sample_method_rows": 13,
+    "empty_queries": 60,
+    "judge_errors": 25,
+    "methods": {
+      "uniqueness": 5,
+      "simplification": 4,
+      "authority": 6,
+      "fluency": 6,
+      "terminology": 5,
+      "reputation": 4,
+      "citation": 5,
+      "statistics": 4,
+      "autogeo": 4,
+      "intent_geo": 3,
+      "multimodal": 4,
+      "multi_agent": 3,
+      "rag_based": 3,
+      "m2geo": 4
+    }
+  },
+  {
+    "variant": "gemini",
+    "file": "evaluation_results_full23.csv",
+    "rows": 2800,
+    "unique_sample_ids": 200,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 2800,
+    "judge_errors": 28,
+    "methods": {
+      "uniqueness": 200,
+      "simplification": 200,
+      "authority": 200,
+      "fluency": 200,
+      "terminology": 200,
+      "reputation": 200,
+      "citation": 200,
+      "statistics": 200,
+      "autogeo": 200,
+      "intent_geo": 200,
+      "multimodal": 200,
+      "multi_agent": 200,
+      "rag_based": 200,
+      "m2geo": 200
+    }
+  },
+  {
+    "variant": "gemini",
+    "file": "evaluation_results_full23_gemini_TEST2.csv",
+    "rows": 5,
+    "unique_sample_ids": 1,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 5,
+    "judge_errors": 2,
+    "methods": {
+      "uniqueness": 1,
+      "simplification": 1,
+      "authority": 1,
+      "fluency": 1,
+      "terminology": 1
+    }
+  },
+  {
+    "variant": "gemini",
+    "file": "evaluation_results_full23_gemini_TEST.csv",
+    "rows": 30,
+    "unique_sample_ids": 3,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 30,
+    "judge_errors": 15,
+    "methods": {
+      "uniqueness": 3,
+      "simplification": 3,
+      "authority": 2,
+      "fluency": 2,
+      "terminology": 2,
+      "reputation": 2,
+      "citation": 2,
+      "statistics": 2,
+      "autogeo": 2,
+      "intent_geo": 2,
+      "multimodal": 2,
+      "multi_agent": 2,
+      "rag_based": 2,
+      "m2geo": 2
+    }
+  },
+  {
+    "variant": "gemini",
+    "file": "evaluation_results_full23_gemini.csv",
+    "rows": 2936,
+    "unique_sample_ids": 200,
+    "duplicate_sample_method_rows": 136,
+    "empty_queries": 2936,
+    "judge_errors": 2871,
+    "methods": {
+      "uniqueness": 212,
+      "simplification": 210,
+      "authority": 214,
+      "fluency": 211,
+      "terminology": 210,
+      "reputation": 206,
+      "citation": 215,
+      "statistics": 208,
+      "autogeo": 208,
+      "intent_geo": 206,
+      "multimodal": 212,
+      "multi_agent": 209,
+      "rag_based": 209,
+      "m2geo": 206
+    }
+  },
+  {
+    "variant": "gpt4o_mini",
+    "file": "evaluation_results.csv",
+    "rows": 1558,
+    "unique_sample_ids": 112,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": "not recorded",
+    "judge_errors": 0,
+    "methods": {
+      "statistics": 111,
+      "m2geo": 111,
+      "uniqueness": 112,
+      "simplification": 112,
+      "authority": 112,
+      "fluency": 112,
+      "terminology": 111,
+      "reputation": 111,
+      "citation": 111,
+      "autogeo": 111,
+      "intent_geo": 111,
+      "multimodal": 111,
+      "multi_agent": 111,
+      "rag_based": 111
+    }
+  },
+  {
+    "variant": "gpt4o_mini",
+    "file": "evaluation_results_full23_chatanywhere_REAL.csv",
+    "rows": 9,
+    "unique_sample_ids": 5,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 9,
+    "judge_errors": 8,
+    "methods": {
+      "statistics": 5,
+      "m2geo": 4
+    }
+  },
+  {
+    "variant": "gpt4o_mini",
+    "file": "evaluation_results_full23_chatanywhere_FINAL_slow.csv",
+    "rows": 2727,
+    "unique_sample_ids": 191,
+    "duplicate_sample_method_rows": 53,
+    "empty_queries": 2727,
+    "judge_errors": 53,
+    "methods": {
+      "statistics": 194,
+      "m2geo": 195,
+      "uniqueness": 195,
+      "simplification": 195,
+      "authority": 195,
+      "fluency": 195,
+      "terminology": 195,
+      "reputation": 194,
+      "citation": 194,
+      "autogeo": 194,
+      "intent_geo": 196,
+      "multimodal": 195,
+      "multi_agent": 195,
+      "rag_based": 195
+    }
+  },
+  {
+    "variant": "gpt4o_mini",
+    "file": "evaluation_results_full23_chatanywhere_FINAL.csv",
+    "rows": 12,
+    "unique_sample_ids": 5,
+    "duplicate_sample_method_rows": 0,
+    "empty_queries": 12,
+    "judge_errors": 5,
+    "methods": {
+      "statistics": 5,
+      "m2geo": 5,
+      "uniqueness": 1,
+      "simplification": 1
+    }
+  },
+  {
+    "variant": "gpt4o_mini",
+    "file": "evaluation_results_full23_chatanywhere_fixed.csv",
+    "rows": 400,
+    "unique_sample_ids": 200,
+    "duplicate_sample_method_rows": 200,
+    "empty_queries": 400,
+    "judge_errors": 200,
+    "methods": {
+      "unknown": 400
+    }
+  }
+]
